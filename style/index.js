@@ -3,6 +3,7 @@ window.onload=function(){
 	var width=window.innerWidth;
 	var height=window.innerHeight;
 	
+	
 	mask.onclick=function(){
 		mask.style.display="none";
 	}
